@@ -414,7 +414,7 @@ Where `Relation Type` can be one of:
 | Type  | Description |
 | ----- | ----------- |
 | `<\|` | Inheritance |
-| `\*`  | Composition |
+| `*`   | Composition |
 | `o`   | Aggregation |
 | `>`   | Association |
 | `<`   | Association |
